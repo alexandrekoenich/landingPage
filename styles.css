@@ -1,0 +1,35 @@
+body {
+    background-image: url(./assets/background.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+body * {
+    font-family: 'Inter', sans-serif;
+}
+
+
+#nails {
+    display: flex;
+    justify-content: center;
+}
+
+
+#nailsPhoto {
+    width: 150px;
+    height: 200px;
+    display: flex;
+}
+
+#lashesPhoto {
+    width: 150px;
+    height: 200px;
+}
+
+#container {
+    border: 2px solid red;
+}
+
+h3 {
+    text-align: center;
+}
